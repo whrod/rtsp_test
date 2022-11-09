@@ -14,8 +14,6 @@ stream = new Stream({
 //   uri: 'rtsp://admin:rnrxhqn2022@223.171.146.19:10000/ISAP/streaming/channels/101',
 //   id: 1,
 // },
-// { uri: 'rtsp://175.209.190.39:10000/stream2', id: 2 },
-// { uri: 'rtsp://175.209.190.39:20000/stream1', id: 3 },
 // { uri: 'rtsp://210.99.70.120:1935/live/cctv002.stream', id: 2 },
 // { uri: 'rtsp://210.99.70.120:1935/live/cctv003.stream', id: 3 },
 // { uri: 'rtsp://210.99.70.120:1935/live/cctv004.stream', id: 4 },
@@ -106,3 +104,4 @@ stream = new Stream({
 // { uri: 'rtsp://210.99.70.120:1935/live/cctv082.stream', id: 82 },
 // { uri: 'rtsp://210.99.70.120:1935/live/cctv083.stream', id: 83 },
 // { uri: 'rtsp://210.99.70.120:1935/live/cctv084.stream', id: 84 },
+//충남 천안시
